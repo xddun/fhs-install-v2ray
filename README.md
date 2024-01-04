@@ -1,3 +1,10 @@
+这里有一个细节的操作：
+
+```
+https://i007it.com/2022/06/14/Linux%E4%BD%BF%E7%94%A8v2ray/
+```
+
+
 # fhs-install-v2ray
 
 > 欲查阅以简体中文撰写的介绍，请访问：[README.zh-Hans-CN.md](README.zh-Hans-CN.md)
